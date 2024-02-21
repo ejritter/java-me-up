@@ -1,4 +1,6 @@
-## about it
+## About it
+When you need a cup of java, just run this app.
+
 Built using the most bleeding edge technology available. This app was designed to make the most
 complex decision every human faces: Is it time for a cup of joe?
 
